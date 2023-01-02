@@ -1,0 +1,542 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "index",
+                "type": "integer"
+            },
+            {
+                "name": "State",
+                "type": "string"
+            },
+            {
+                "name": "Gov_Political_Affiliation",
+                "type": "string"
+            },
+            {
+                "name": "Lat",
+                "type": "number"
+            },
+            {
+                "name": "Long",
+                "type": "number"
+            }
+        ],
+        "primaryKey": [
+            "index"
+        ],
+        "pandas_version": "1.4.0"
+    },
+    "data": [
+        {
+            "index": 0,
+            "State": "Alabama",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 32.318231,
+            "Long": -86.902298,
+            "incident_rank": 19,
+            "per_capita_rank": 11,
+            "population_rank": 24
+        },
+        {
+            "index": 1,
+            "State": "Alaska",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 63.588753,
+            "Long": -154.493062,
+            "incident_rank": 36,
+            "per_capita_rank": 2,
+            "population_rank": 48
+        },
+        {
+            "index": 2,
+            "State": "Arizona",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 34.048928,
+            "Long": -111.093731,
+            "incident_rank": 32,
+            "per_capita_rank": 50,
+            "population_rank": 14
+        },
+        {
+            "index": 3,
+            "State": "Arkansas",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 35.20105,
+            "Long": -91.831833,
+            "incident_rank": 28,
+            "per_capita_rank": 18,
+            "population_rank": 33
+        },
+        {
+            "index": 4,
+            "State": "California",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 36.778261,
+            "Long": -119.417932,
+            "incident_rank": 4,
+            "per_capita_rank": 47,
+            "population_rank": 1
+        },
+        {
+            "index": 5,
+            "State": "Colorado",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 39.550051,
+            "Long": -105.782067,
+            "incident_rank": 25,
+            "per_capita_rank": 39,
+            "population_rank": 21
+        },
+        {
+            "index": 6,
+            "State": "Connecticut",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 41.603221,
+            "Long": -73.087749,
+            "incident_rank": 26,
+            "per_capita_rank": 14,
+            "population_rank": 29
+        },
+        {
+            "index": 7,
+            "State": "Delaware",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 38.910832,
+            "Long": -75.52767,
+            "incident_rank": 40,
+            "per_capita_rank": 4,
+            "population_rank": 45
+        },
+        {
+            "index": 8,
+            "State": "District of Columbia",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 38.905985,
+            "Long": -77.033418,
+            "incident_rank": 31,
+            "per_capita_rank": 1,
+            "population_rank": 49
+        },
+        {
+            "index": 9,
+            "State": "Florida",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 27.664827,
+            "Long": -81.515754,
+            "incident_rank": 2,
+            "per_capita_rank": 35,
+            "population_rank": 3
+        },
+        {
+            "index": 10,
+            "State": "Georgia",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 32.157435,
+            "Long": -82.907123,
+            "incident_rank": 7,
+            "per_capita_rank": 20,
+            "population_rank": 8
+        },
+        {
+            "index": 11,
+            "State": "Hawaii",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 19.898682,
+            "Long": -155.665857,
+            "incident_rank": 51,
+            "per_capita_rank": 51,
+            "population_rank": 40
+        },
+        {
+            "index": 12,
+            "State": "Idaho",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 44.068202,
+            "Long": -114.742041,
+            "incident_rank": 45,
+            "per_capita_rank": 46,
+            "population_rank": 38
+        },
+        {
+            "index": 13,
+            "State": "Illinois",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 40.633125,
+            "Long": -89.398528,
+            "incident_rank": 1,
+            "per_capita_rank": 5,
+            "population_rank": 6
+        },
+        {
+            "index": 14,
+            "State": "Indiana",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 40.551217,
+            "Long": -85.602364,
+            "incident_rank": 16,
+            "per_capita_rank": 17,
+            "population_rank": 17
+        },
+        {
+            "index": 15,
+            "State": "Iowa",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 41.878003,
+            "Long": -93.097702,
+            "incident_rank": 29,
+            "per_capita_rank": 22,
+            "population_rank": 31
+        },
+        {
+            "index": 16,
+            "State": "Kansas",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 39.011902,
+            "Long": -98.484246,
+            "incident_rank": 33,
+            "per_capita_rank": 28,
+            "population_rank": 35
+        },
+        {
+            "index": 17,
+            "State": "Kentucky",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 37.839333,
+            "Long": -84.270018,
+            "incident_rank": 22,
+            "per_capita_rank": 13,
+            "population_rank": 26
+        },
+        {
+            "index": 18,
+            "State": "Louisiana",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 31.244823,
+            "Long": -92.145024,
+            "incident_rank": 11,
+            "per_capita_rank": 3,
+            "population_rank": 25
+        },
+        {
+            "index": 19,
+            "State": "Maine",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 45.253783,
+            "Long": -69.445469,
+            "incident_rank": 43.5,
+            "per_capita_rank": 30,
+            "population_rank": 42
+        },
+        {
+            "index": 20,
+            "State": "Maryland",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 39.045755,
+            "Long": -76.641271,
+            "incident_rank": 18,
+            "per_capita_rank": 16,
+            "population_rank": 19
+        },
+        {
+            "index": 21,
+            "State": "Massachusetts",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 42.407211,
+            "Long": -71.382437,
+            "incident_rank": 15,
+            "per_capita_rank": 21,
+            "population_rank": 15
+        },
+        {
+            "index": 22,
+            "State": "Michigan",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 44.314844,
+            "Long": -85.602364,
+            "incident_rank": 17,
+            "per_capita_rank": 42,
+            "population_rank": 10
+        },
+        {
+            "index": 23,
+            "State": "Minnesota",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 46.729553,
+            "Long": -94.6859,
+            "incident_rank": 35,
+            "per_capita_rank": 49,
+            "population_rank": 22
+        },
+        {
+            "index": 24,
+            "State": "Mississippi",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 32.354668,
+            "Long": -89.398528,
+            "incident_rank": 27,
+            "per_capita_rank": 10,
+            "population_rank": 34
+        },
+        {
+            "index": 25,
+            "State": "Missouri",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 37.964253,
+            "Long": -91.831833,
+            "incident_rank": 12,
+            "per_capita_rank": 9,
+            "population_rank": 18
+        },
+        {
+            "index": 26,
+            "State": "Montana",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 46.879682,
+            "Long": -110.362566,
+            "incident_rank": 47,
+            "per_capita_rank": 41,
+            "population_rank": 43
+        },
+        {
+            "index": 27,
+            "State": "Nebraska",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 41.492537,
+            "Long": -99.901813,
+            "incident_rank": 38,
+            "per_capita_rank": 25,
+            "population_rank": 37
+        },
+        {
+            "index": 28,
+            "State": "Nevada",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 38.80261,
+            "Long": -116.419389,
+            "incident_rank": 34,
+            "per_capita_rank": 34,
+            "population_rank": 32
+        },
+        {
+            "index": 29,
+            "State": "New Hampshire",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 43.193852,
+            "Long": -71.572395,
+            "incident_rank": 42,
+            "per_capita_rank": 29,
+            "population_rank": 41
+        },
+        {
+            "index": 30,
+            "State": "New Jersey",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 40.058324,
+            "Long": -74.405661,
+            "incident_rank": 20,
+            "per_capita_rank": 43,
+            "population_rank": 11
+        },
+        {
+            "index": 31,
+            "State": "New Mexico",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 34.97273,
+            "Long": -105.032363,
+            "incident_rank": 37,
+            "per_capita_rank": 26,
+            "population_rank": 36
+        },
+        {
+            "index": 32,
+            "State": "New York",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 43.299428,
+            "Long": -74.217933,
+            "incident_rank": 5,
+            "per_capita_rank": 40,
+            "population_rank": 4
+        },
+        {
+            "index": 33,
+            "State": "North Carolina",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 35.759573,
+            "Long": -79.0193,
+            "incident_rank": 9,
+            "per_capita_rank": 27,
+            "population_rank": 9
+        },
+        {
+            "index": 34,
+            "State": "North Dakota",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 47.551493,
+            "Long": -101.002012,
+            "incident_rank": 48,
+            "per_capita_rank": 24,
+            "population_rank": 47
+        },
+        {
+            "index": 35,
+            "State": "Ohio",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 40.417287,
+            "Long": -82.907123,
+            "incident_rank": 6,
+            "per_capita_rank": 23,
+            "population_rank": 7
+        },
+        {
+            "index": 36,
+            "State": "Oklahoma",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 35.007752,
+            "Long": -97.092877,
+            "incident_rank": 23,
+            "per_capita_rank": 12,
+            "population_rank": 28
+        },
+        {
+            "index": 37,
+            "State": "Oregon",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 43.804133,
+            "Long": -120.554201,
+            "incident_rank": 30,
+            "per_capita_rank": 37,
+            "population_rank": 27
+        },
+        {
+            "index": 38,
+            "State": "Pennsylvania",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 41.203322,
+            "Long": -77.194525,
+            "incident_rank": 8,
+            "per_capita_rank": 36,
+            "population_rank": 5
+        },
+        {
+            "index": 39,
+            "State": "Rhode Island",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 41.580095,
+            "Long": -71.477429,
+            "incident_rank": 43.5,
+            "per_capita_rank": 15,
+            "population_rank": 44
+        },
+        {
+            "index": 40,
+            "State": "South Carolina",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 33.836081,
+            "Long": -81.163725,
+            "incident_rank": 13,
+            "per_capita_rank": 6,
+            "population_rank": 23
+        },
+        {
+            "index": 41,
+            "State": "South Dakota",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 43.969515,
+            "Long": -99.901813,
+            "incident_rank": 49,
+            "per_capita_rank": 38,
+            "population_rank": 46
+        },
+        {
+            "index": 42,
+            "State": "Tennessee",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 35.517491,
+            "Long": -86.580447,
+            "incident_rank": 10,
+            "per_capita_rank": 8,
+            "population_rank": 16
+        },
+        {
+            "index": 43,
+            "State": "Texas",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 31.968599,
+            "Long": -99.901813,
+            "incident_rank": 3,
+            "per_capita_rank": 44,
+            "population_rank": 2
+        },
+        {
+            "index": 44,
+            "State": "Utah",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 39.32098,
+            "Long": -111.093731,
+            "incident_rank": 41,
+            "per_capita_rank": 48,
+            "population_rank": 30
+        },
+        {
+            "index": 45,
+            "State": "Vermont",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 44.558803,
+            "Long": -72.577841,
+            "incident_rank": 50,
+            "per_capita_rank": 33,
+            "population_rank": 50
+        },
+        {
+            "index": 46,
+            "State": "Virginia",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 37.431573,
+            "Long": -78.656894,
+            "incident_rank": 14,
+            "per_capita_rank": 31,
+            "population_rank": 12
+        },
+        {
+            "index": 47,
+            "State": "Washington",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 47.751074,
+            "Long": -120.740139,
+            "incident_rank": 24,
+            "per_capita_rank": 45,
+            "population_rank": 13
+        },
+        {
+            "index": 48,
+            "State": "West Virginia",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 38.597626,
+            "Long": -80.454903,
+            "incident_rank": 39,
+            "per_capita_rank": 19,
+            "population_rank": 39
+        },
+        {
+            "index": 49,
+            "State": "Wisconsin",
+            "Gov_Political_Affiliation": "Democrat",
+            "Lat": 43.78444,
+            "Long": -88.787868,
+            "incident_rank": 21,
+            "per_capita_rank": 32,
+            "population_rank": 20
+        },
+        {
+            "index": 50,
+            "State": "Wyoming",
+            "Gov_Political_Affiliation": "Republican",
+            "Lat": 43.075968,
+            "Long": -107.290284,
+            "incident_rank": 46,
+            "per_capita_rank": 7,
+            "population_rank": 51
+        }
+    ]
+}

@@ -1,0 +1,3122 @@
+[
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alabama",
+        "Year":2011,
+        "Total_Deaths":452.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alabama",
+        "Year":2012,
+        "Total_Deaths":500.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alabama",
+        "Year":2013,
+        "Total_Deaths":504.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alabama",
+        "Year":2014,
+        "Total_Deaths":479.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alabama",
+        "Year":2015,
+        "Total_Deaths":528.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alabama",
+        "Year":2016,
+        "Total_Deaths":550.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alabama",
+        "Year":2017,
+        "Total_Deaths":573.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alabama",
+        "Year":2018,
+        "Total_Deaths":552.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alabama",
+        "Year":2019,
+        "Total_Deaths":543.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alabama",
+        "Year":2020,
+        "Total_Deaths":542.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alaska",
+        "Year":2011,
+        "Total_Deaths":99.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alaska",
+        "Year":2012,
+        "Total_Deaths":98.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alaska",
+        "Year":2013,
+        "Total_Deaths":120.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alaska",
+        "Year":2014,
+        "Total_Deaths":115.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alaska",
+        "Year":2015,
+        "Total_Deaths":123.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alaska",
+        "Year":2016,
+        "Total_Deaths":113.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alaska",
+        "Year":2017,
+        "Total_Deaths":119.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alaska",
+        "Year":2018,
+        "Total_Deaths":107.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alaska",
+        "Year":2019,
+        "Total_Deaths":117.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Alaska",
+        "Year":2020,
+        "Total_Deaths":133.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arizona",
+        "Year":2011,
+        "Total_Deaths":674.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arizona",
+        "Year":2012,
+        "Total_Deaths":663.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arizona",
+        "Year":2013,
+        "Total_Deaths":655.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arizona",
+        "Year":2014,
+        "Total_Deaths":683.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arizona",
+        "Year":2015,
+        "Total_Deaths":707.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arizona",
+        "Year":2016,
+        "Total_Deaths":755.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arizona",
+        "Year":2017,
+        "Total_Deaths":792.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arizona",
+        "Year":2018,
+        "Total_Deaths":802.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arizona",
+        "Year":2019,
+        "Total_Deaths":809.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arizona",
+        "Year":2020,
+        "Total_Deaths":830.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arkansas",
+        "Year":2011,
+        "Total_Deaths":299.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arkansas",
+        "Year":2012,
+        "Total_Deaths":307.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arkansas",
+        "Year":2013,
+        "Total_Deaths":322.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arkansas",
+        "Year":2014,
+        "Total_Deaths":323.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arkansas",
+        "Year":2015,
+        "Total_Deaths":342.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arkansas",
+        "Year":2016,
+        "Total_Deaths":331.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arkansas",
+        "Year":2017,
+        "Total_Deaths":392.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arkansas",
+        "Year":2018,
+        "Total_Deaths":345.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arkansas",
+        "Year":2019,
+        "Total_Deaths":341.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Arkansas",
+        "Year":2020,
+        "Total_Deaths":364.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"California",
+        "Year":2011,
+        "Total_Deaths":1564.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"California",
+        "Year":2012,
+        "Total_Deaths":1549.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"California",
+        "Year":2013,
+        "Total_Deaths":1571.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"California",
+        "Year":2014,
+        "Total_Deaths":1582.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"California",
+        "Year":2015,
+        "Total_Deaths":1559.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"California",
+        "Year":2016,
+        "Total_Deaths":1595.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"California",
+        "Year":2017,
+        "Total_Deaths":1610.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"California",
+        "Year":2018,
+        "Total_Deaths":1629.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"California",
+        "Year":2019,
+        "Total_Deaths":1586.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"California",
+        "Year":2020,
+        "Total_Deaths":1552.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Colorado",
+        "Year":2011,
+        "Total_Deaths":443.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Colorado",
+        "Year":2012,
+        "Total_Deaths":533.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Colorado",
+        "Year":2013,
+        "Total_Deaths":489.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Colorado",
+        "Year":2014,
+        "Total_Deaths":539.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Colorado",
+        "Year":2015,
+        "Total_Deaths":541.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Colorado",
+        "Year":2016,
+        "Total_Deaths":613.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Colorado",
+        "Year":2017,
+        "Total_Deaths":592.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Colorado",
+        "Year":2018,
+        "Total_Deaths":660.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Colorado",
+        "Year":2019,
+        "Total_Deaths":647.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Colorado",
+        "Year":2020,
+        "Total_Deaths":654.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Connecticut",
+        "Year":2011,
+        "Total_Deaths":111.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Connecticut",
+        "Year":2012,
+        "Total_Deaths":111.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Connecticut",
+        "Year":2013,
+        "Total_Deaths":92.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Connecticut",
+        "Year":2014,
+        "Total_Deaths":125.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Connecticut",
+        "Year":2015,
+        "Total_Deaths":104.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Connecticut",
+        "Year":2016,
+        "Total_Deaths":110.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Connecticut",
+        "Year":2017,
+        "Total_Deaths":109.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Connecticut",
+        "Year":2018,
+        "Total_Deaths":127.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Connecticut",
+        "Year":2019,
+        "Total_Deaths":118.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Connecticut",
+        "Year":2020,
+        "Total_Deaths":109.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Delaware",
+        "Year":2011,
+        "Total_Deaths":46.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Delaware",
+        "Year":2012,
+        "Total_Deaths":46.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Delaware",
+        "Year":2013,
+        "Total_Deaths":60.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Delaware",
+        "Year":2014,
+        "Total_Deaths":59.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Delaware",
+        "Year":2015,
+        "Total_Deaths":55.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Delaware",
+        "Year":2016,
+        "Total_Deaths":65.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Delaware",
+        "Year":2017,
+        "Total_Deaths":50.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Delaware",
+        "Year":2018,
+        "Total_Deaths":58.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Delaware",
+        "Year":2019,
+        "Total_Deaths":45.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Delaware",
+        "Year":2020,
+        "Total_Deaths":58.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"District of Columbia",
+        "Year":2011,
+        "Total_Deaths":null
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"District of Columbia",
+        "Year":2012,
+        "Total_Deaths":10.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"District of Columbia",
+        "Year":2013,
+        "Total_Deaths":null
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"District of Columbia",
+        "Year":2014,
+        "Total_Deaths":14.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"District of Columbia",
+        "Year":2015,
+        "Total_Deaths":11.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"District of Columbia",
+        "Year":2016,
+        "Total_Deaths":null
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"District of Columbia",
+        "Year":2017,
+        "Total_Deaths":null
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"District of Columbia",
+        "Year":2018,
+        "Total_Deaths":null
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"District of Columbia",
+        "Year":2019,
+        "Total_Deaths":12.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"District of Columbia",
+        "Year":2020,
+        "Total_Deaths":null
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Florida",
+        "Year":2011,
+        "Total_Deaths":1490.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Florida",
+        "Year":2012,
+        "Total_Deaths":1550.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Florida",
+        "Year":2013,
+        "Total_Deaths":1566.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Florida",
+        "Year":2014,
+        "Total_Deaths":1538.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Florida",
+        "Year":2015,
+        "Total_Deaths":1630.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Florida",
+        "Year":2016,
+        "Total_Deaths":1672.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Florida",
+        "Year":2017,
+        "Total_Deaths":1723.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Florida",
+        "Year":2018,
+        "Total_Deaths":1869.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Florida",
+        "Year":2019,
+        "Total_Deaths":1808.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Florida",
+        "Year":2020,
+        "Total_Deaths":1730.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Georgia",
+        "Year":2011,
+        "Total_Deaths":742.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Georgia",
+        "Year":2012,
+        "Total_Deaths":750.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Georgia",
+        "Year":2013,
+        "Total_Deaths":747.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Georgia",
+        "Year":2014,
+        "Total_Deaths":841.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Georgia",
+        "Year":2015,
+        "Total_Deaths":823.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Georgia",
+        "Year":2016,
+        "Total_Deaths":871.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Georgia",
+        "Year":2017,
+        "Total_Deaths":908.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Georgia",
+        "Year":2018,
+        "Total_Deaths":987.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Georgia",
+        "Year":2019,
+        "Total_Deaths":955.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Georgia",
+        "Year":2020,
+        "Total_Deaths":939.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Hawaii",
+        "Year":2011,
+        "Total_Deaths":42.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Hawaii",
+        "Year":2012,
+        "Total_Deaths":43.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Hawaii",
+        "Year":2013,
+        "Total_Deaths":28.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Hawaii",
+        "Year":2014,
+        "Total_Deaths":33.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Hawaii",
+        "Year":2015,
+        "Total_Deaths":44.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Hawaii",
+        "Year":2016,
+        "Total_Deaths":37.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Hawaii",
+        "Year":2017,
+        "Total_Deaths":30.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Hawaii",
+        "Year":2018,
+        "Total_Deaths":30.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Hawaii",
+        "Year":2019,
+        "Total_Deaths":41.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Hawaii",
+        "Year":2020,
+        "Total_Deaths":31.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Idaho",
+        "Year":2011,
+        "Total_Deaths":167.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Idaho",
+        "Year":2012,
+        "Total_Deaths":176.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Idaho",
+        "Year":2013,
+        "Total_Deaths":200.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Idaho",
+        "Year":2014,
+        "Total_Deaths":182.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Idaho",
+        "Year":2015,
+        "Total_Deaths":215.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Idaho",
+        "Year":2016,
+        "Total_Deaths":215.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Idaho",
+        "Year":2017,
+        "Total_Deaths":244.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Idaho",
+        "Year":2018,
+        "Total_Deaths":250.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Idaho",
+        "Year":2019,
+        "Total_Deaths":223.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Idaho",
+        "Year":2020,
+        "Total_Deaths":277.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Illinois",
+        "Year":2011,
+        "Total_Deaths":461.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Illinois",
+        "Year":2012,
+        "Total_Deaths":490.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Illinois",
+        "Year":2013,
+        "Total_Deaths":496.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Illinois",
+        "Year":2014,
+        "Total_Deaths":533.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Illinois",
+        "Year":2015,
+        "Total_Deaths":495.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Illinois",
+        "Year":2016,
+        "Total_Deaths":506.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Illinois",
+        "Year":2017,
+        "Total_Deaths":577.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Illinois",
+        "Year":2018,
+        "Total_Deaths":573.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Illinois",
+        "Year":2019,
+        "Total_Deaths":540.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Illinois",
+        "Year":2020,
+        "Total_Deaths":543.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Indiana",
+        "Year":2011,
+        "Total_Deaths":411.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Indiana",
+        "Year":2012,
+        "Total_Deaths":513.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Indiana",
+        "Year":2013,
+        "Total_Deaths":523.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Indiana",
+        "Year":2014,
+        "Total_Deaths":528.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Indiana",
+        "Year":2015,
+        "Total_Deaths":517.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Indiana",
+        "Year":2016,
+        "Total_Deaths":591.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Indiana",
+        "Year":2017,
+        "Total_Deaths":604.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Indiana",
+        "Year":2018,
+        "Total_Deaths":588.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Indiana",
+        "Year":2019,
+        "Total_Deaths":570.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Indiana",
+        "Year":2020,
+        "Total_Deaths":609.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Iowa",
+        "Year":2011,
+        "Total_Deaths":185.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Iowa",
+        "Year":2012,
+        "Total_Deaths":175.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Iowa",
+        "Year":2013,
+        "Total_Deaths":221.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Iowa",
+        "Year":2014,
+        "Total_Deaths":194.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Iowa",
+        "Year":2015,
+        "Total_Deaths":193.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Iowa",
+        "Year":2016,
+        "Total_Deaths":228.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Iowa",
+        "Year":2017,
+        "Total_Deaths":222.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Iowa",
+        "Year":2018,
+        "Total_Deaths":231.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Iowa",
+        "Year":2019,
+        "Total_Deaths":233.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Iowa",
+        "Year":2020,
+        "Total_Deaths":260.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kansas",
+        "Year":2011,
+        "Total_Deaths":233.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kansas",
+        "Year":2012,
+        "Total_Deaths":297.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kansas",
+        "Year":2013,
+        "Total_Deaths":241.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kansas",
+        "Year":2014,
+        "Total_Deaths":238.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kansas",
+        "Year":2015,
+        "Total_Deaths":224.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kansas",
+        "Year":2016,
+        "Total_Deaths":257.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kansas",
+        "Year":2017,
+        "Total_Deaths":316.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kansas",
+        "Year":2018,
+        "Total_Deaths":292.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kansas",
+        "Year":2019,
+        "Total_Deaths":291.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kansas",
+        "Year":2020,
+        "Total_Deaths":314.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kentucky",
+        "Year":2011,
+        "Total_Deaths":453.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kentucky",
+        "Year":2012,
+        "Total_Deaths":469.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kentucky",
+        "Year":2013,
+        "Total_Deaths":453.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kentucky",
+        "Year":2014,
+        "Total_Deaths":470.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kentucky",
+        "Year":2015,
+        "Total_Deaths":499.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kentucky",
+        "Year":2016,
+        "Total_Deaths":495.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kentucky",
+        "Year":2017,
+        "Total_Deaths":470.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kentucky",
+        "Year":2018,
+        "Total_Deaths":509.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kentucky",
+        "Year":2019,
+        "Total_Deaths":445.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Kentucky",
+        "Year":2020,
+        "Total_Deaths":518.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Louisiana",
+        "Year":2011,
+        "Total_Deaths":377.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Louisiana",
+        "Year":2012,
+        "Total_Deaths":375.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Louisiana",
+        "Year":2013,
+        "Total_Deaths":408.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Louisiana",
+        "Year":2014,
+        "Total_Deaths":444.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Louisiana",
+        "Year":2015,
+        "Total_Deaths":468.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Louisiana",
+        "Year":2016,
+        "Total_Deaths":440.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Louisiana",
+        "Year":2017,
+        "Total_Deaths":444.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Louisiana",
+        "Year":2018,
+        "Total_Deaths":467.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Louisiana",
+        "Year":2019,
+        "Total_Deaths":446.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Louisiana",
+        "Year":2020,
+        "Total_Deaths":406.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maine",
+        "Year":2011,
+        "Total_Deaths":113.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maine",
+        "Year":2012,
+        "Total_Deaths":112.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maine",
+        "Year":2013,
+        "Total_Deaths":137.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maine",
+        "Year":2014,
+        "Total_Deaths":116.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maine",
+        "Year":2015,
+        "Total_Deaths":128.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maine",
+        "Year":2016,
+        "Total_Deaths":112.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maine",
+        "Year":2017,
+        "Total_Deaths":151.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maine",
+        "Year":2018,
+        "Total_Deaths":147.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maine",
+        "Year":2019,
+        "Total_Deaths":144.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maine",
+        "Year":2020,
+        "Total_Deaths":132.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maryland",
+        "Year":2011,
+        "Total_Deaths":242.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maryland",
+        "Year":2012,
+        "Total_Deaths":272.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maryland",
+        "Year":2013,
+        "Total_Deaths":257.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maryland",
+        "Year":2014,
+        "Total_Deaths":277.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maryland",
+        "Year":2015,
+        "Total_Deaths":244.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maryland",
+        "Year":2016,
+        "Total_Deaths":251.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maryland",
+        "Year":2017,
+        "Total_Deaths":271.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maryland",
+        "Year":2018,
+        "Total_Deaths":266.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maryland",
+        "Year":2019,
+        "Total_Deaths":268.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Maryland",
+        "Year":2020,
+        "Total_Deaths":267.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Massachusetts",
+        "Year":2011,
+        "Total_Deaths":116.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Massachusetts",
+        "Year":2012,
+        "Total_Deaths":151.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Massachusetts",
+        "Year":2013,
+        "Total_Deaths":112.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Massachusetts",
+        "Year":2014,
+        "Total_Deaths":130.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Massachusetts",
+        "Year":2015,
+        "Total_Deaths":118.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Massachusetts",
+        "Year":2016,
+        "Total_Deaths":140.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Massachusetts",
+        "Year":2017,
+        "Total_Deaths":152.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Massachusetts",
+        "Year":2018,
+        "Total_Deaths":148.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Massachusetts",
+        "Year":2019,
+        "Total_Deaths":142.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Massachusetts",
+        "Year":2020,
+        "Total_Deaths":134.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Michigan",
+        "Year":2011,
+        "Total_Deaths":619.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Michigan",
+        "Year":2012,
+        "Total_Deaths":623.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Michigan",
+        "Year":2013,
+        "Total_Deaths":674.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Michigan",
+        "Year":2014,
+        "Total_Deaths":671.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Michigan",
+        "Year":2015,
+        "Total_Deaths":692.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Michigan",
+        "Year":2016,
+        "Total_Deaths":717.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Michigan",
+        "Year":2017,
+        "Total_Deaths":682.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Michigan",
+        "Year":2018,
+        "Total_Deaths":806.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Michigan",
+        "Year":2019,
+        "Total_Deaths":742.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Michigan",
+        "Year":2020,
+        "Total_Deaths":761.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Minnesota",
+        "Year":2011,
+        "Total_Deaths":322.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Minnesota",
+        "Year":2012,
+        "Total_Deaths":310.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Minnesota",
+        "Year":2013,
+        "Total_Deaths":339.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Minnesota",
+        "Year":2014,
+        "Total_Deaths":308.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Minnesota",
+        "Year":2015,
+        "Total_Deaths":304.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Minnesota",
+        "Year":2016,
+        "Total_Deaths":332.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Minnesota",
+        "Year":2017,
+        "Total_Deaths":365.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Minnesota",
+        "Year":2018,
+        "Total_Deaths":356.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Minnesota",
+        "Year":2019,
+        "Total_Deaths":350.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Minnesota",
+        "Year":2020,
+        "Total_Deaths":354.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Mississippi",
+        "Year":2011,
+        "Total_Deaths":268.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Mississippi",
+        "Year":2012,
+        "Total_Deaths":296.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Mississippi",
+        "Year":2013,
+        "Total_Deaths":279.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Mississippi",
+        "Year":2014,
+        "Total_Deaths":251.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Mississippi",
+        "Year":2015,
+        "Total_Deaths":292.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Mississippi",
+        "Year":2016,
+        "Total_Deaths":268.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Mississippi",
+        "Year":2017,
+        "Total_Deaths":295.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Mississippi",
+        "Year":2018,
+        "Total_Deaths":313.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Mississippi",
+        "Year":2019,
+        "Total_Deaths":308.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Mississippi",
+        "Year":2020,
+        "Total_Deaths":278.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Missouri",
+        "Year":2011,
+        "Total_Deaths":513.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Missouri",
+        "Year":2012,
+        "Total_Deaths":546.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Missouri",
+        "Year":2013,
+        "Total_Deaths":556.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Missouri",
+        "Year":2014,
+        "Total_Deaths":588.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Missouri",
+        "Year":2015,
+        "Total_Deaths":605.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Missouri",
+        "Year":2016,
+        "Total_Deaths":650.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Missouri",
+        "Year":2017,
+        "Total_Deaths":701.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Missouri",
+        "Year":2018,
+        "Total_Deaths":726.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Missouri",
+        "Year":2019,
+        "Total_Deaths":681.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Missouri",
+        "Year":2020,
+        "Total_Deaths":704.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Montana",
+        "Year":2011,
+        "Total_Deaths":152.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Montana",
+        "Year":2012,
+        "Total_Deaths":153.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Montana",
+        "Year":2013,
+        "Total_Deaths":147.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Montana",
+        "Year":2014,
+        "Total_Deaths":149.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Montana",
+        "Year":2015,
+        "Total_Deaths":174.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Montana",
+        "Year":2016,
+        "Total_Deaths":162.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Montana",
+        "Year":2017,
+        "Total_Deaths":213.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Montana",
+        "Year":2018,
+        "Total_Deaths":160.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Montana",
+        "Year":2019,
+        "Total_Deaths":172.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Montana",
+        "Year":2020,
+        "Total_Deaths":189.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nebraska",
+        "Year":2011,
+        "Total_Deaths":111.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nebraska",
+        "Year":2012,
+        "Total_Deaths":115.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nebraska",
+        "Year":2013,
+        "Total_Deaths":111.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nebraska",
+        "Year":2014,
+        "Total_Deaths":133.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nebraska",
+        "Year":2015,
+        "Total_Deaths":114.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nebraska",
+        "Year":2016,
+        "Total_Deaths":116.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nebraska",
+        "Year":2017,
+        "Total_Deaths":126.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nebraska",
+        "Year":2018,
+        "Total_Deaths":145.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nebraska",
+        "Year":2019,
+        "Total_Deaths":154.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nebraska",
+        "Year":2020,
+        "Total_Deaths":139.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nevada",
+        "Year":2011,
+        "Total_Deaths":272.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nevada",
+        "Year":2012,
+        "Total_Deaths":274.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nevada",
+        "Year":2013,
+        "Total_Deaths":292.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nevada",
+        "Year":2014,
+        "Total_Deaths":309.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nevada",
+        "Year":2015,
+        "Total_Deaths":293.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nevada",
+        "Year":2016,
+        "Total_Deaths":334.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nevada",
+        "Year":2017,
+        "Total_Deaths":329.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nevada",
+        "Year":2018,
+        "Total_Deaths":367.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nevada",
+        "Year":2019,
+        "Total_Deaths":354.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Nevada",
+        "Year":2020,
+        "Total_Deaths":372.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Hampshire",
+        "Year":2011,
+        "Total_Deaths":75.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Hampshire",
+        "Year":2012,
+        "Total_Deaths":98.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Hampshire",
+        "Year":2013,
+        "Total_Deaths":81.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Hampshire",
+        "Year":2014,
+        "Total_Deaths":110.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Hampshire",
+        "Year":2015,
+        "Total_Deaths":107.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Hampshire",
+        "Year":2016,
+        "Total_Deaths":123.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Hampshire",
+        "Year":2017,
+        "Total_Deaths":132.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Hampshire",
+        "Year":2018,
+        "Total_Deaths":135.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Hampshire",
+        "Year":2019,
+        "Total_Deaths":132.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Hampshire",
+        "Year":2020,
+        "Total_Deaths":118.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Jersey",
+        "Year":2011,
+        "Total_Deaths":181.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Jersey",
+        "Year":2012,
+        "Total_Deaths":160.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Jersey",
+        "Year":2013,
+        "Total_Deaths":194.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Jersey",
+        "Year":2014,
+        "Total_Deaths":194.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Jersey",
+        "Year":2015,
+        "Total_Deaths":189.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Jersey",
+        "Year":2016,
+        "Total_Deaths":176.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Jersey",
+        "Year":2017,
+        "Total_Deaths":204.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Jersey",
+        "Year":2018,
+        "Total_Deaths":193.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Jersey",
+        "Year":2019,
+        "Total_Deaths":173.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Jersey",
+        "Year":2020,
+        "Total_Deaths":181.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Mexico",
+        "Year":2011,
+        "Total_Deaths":221.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Mexico",
+        "Year":2012,
+        "Total_Deaths":230.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Mexico",
+        "Year":2013,
+        "Total_Deaths":222.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Mexico",
+        "Year":2014,
+        "Total_Deaths":244.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Mexico",
+        "Year":2015,
+        "Total_Deaths":275.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Mexico",
+        "Year":2016,
+        "Total_Deaths":243.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Mexico",
+        "Year":2017,
+        "Total_Deaths":261.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Mexico",
+        "Year":2018,
+        "Total_Deaths":281.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Mexico",
+        "Year":2019,
+        "Total_Deaths":284.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New Mexico",
+        "Year":2020,
+        "Total_Deaths":303.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New York",
+        "Year":2011,
+        "Total_Deaths":505.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New York",
+        "Year":2012,
+        "Total_Deaths":516.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New York",
+        "Year":2013,
+        "Total_Deaths":465.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New York",
+        "Year":2014,
+        "Total_Deaths":474.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New York",
+        "Year":2015,
+        "Total_Deaths":421.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New York",
+        "Year":2016,
+        "Total_Deaths":490.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New York",
+        "Year":2017,
+        "Total_Deaths":433.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New York",
+        "Year":2018,
+        "Total_Deaths":445.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New York",
+        "Year":2019,
+        "Total_Deaths":455.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"New York",
+        "Year":2020,
+        "Total_Deaths":462.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Carolina",
+        "Year":2011,
+        "Total_Deaths":728.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Carolina",
+        "Year":2012,
+        "Total_Deaths":709.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Carolina",
+        "Year":2013,
+        "Total_Deaths":771.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Carolina",
+        "Year":2014,
+        "Total_Deaths":760.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Carolina",
+        "Year":2015,
+        "Total_Deaths":787.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Carolina",
+        "Year":2016,
+        "Total_Deaths":788.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Carolina",
+        "Year":2017,
+        "Total_Deaths":840.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Carolina",
+        "Year":2018,
+        "Total_Deaths":873.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Carolina",
+        "Year":2019,
+        "Total_Deaths":781.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Carolina",
+        "Year":2020,
+        "Total_Deaths":879.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Dakota",
+        "Year":2011,
+        "Total_Deaths":51.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Dakota",
+        "Year":2012,
+        "Total_Deaths":63.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Dakota",
+        "Year":2013,
+        "Total_Deaths":76.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Dakota",
+        "Year":2014,
+        "Total_Deaths":85.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Dakota",
+        "Year":2015,
+        "Total_Deaths":76.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Dakota",
+        "Year":2016,
+        "Total_Deaths":75.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Dakota",
+        "Year":2017,
+        "Total_Deaths":93.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Dakota",
+        "Year":2018,
+        "Total_Deaths":75.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Dakota",
+        "Year":2019,
+        "Total_Deaths":79.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"North Dakota",
+        "Year":2020,
+        "Total_Deaths":77.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Ohio",
+        "Year":2011,
+        "Total_Deaths":726.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Ohio",
+        "Year":2012,
+        "Total_Deaths":784.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Ohio",
+        "Year":2013,
+        "Total_Deaths":800.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Ohio",
+        "Year":2014,
+        "Total_Deaths":744.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Ohio",
+        "Year":2015,
+        "Total_Deaths":861.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Ohio",
+        "Year":2016,
+        "Total_Deaths":926.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Ohio",
+        "Year":2017,
+        "Total_Deaths":918.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Ohio",
+        "Year":2018,
+        "Total_Deaths":962.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Ohio",
+        "Year":2019,
+        "Total_Deaths":980.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Ohio",
+        "Year":2020,
+        "Total_Deaths":903.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oklahoma",
+        "Year":2011,
+        "Total_Deaths":440.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oklahoma",
+        "Year":2012,
+        "Total_Deaths":411.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oklahoma",
+        "Year":2013,
+        "Total_Deaths":433.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oklahoma",
+        "Year":2014,
+        "Total_Deaths":435.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oklahoma",
+        "Year":2015,
+        "Total_Deaths":468.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oklahoma",
+        "Year":2016,
+        "Total_Deaths":517.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oklahoma",
+        "Year":2017,
+        "Total_Deaths":439.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oklahoma",
+        "Year":2018,
+        "Total_Deaths":465.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oklahoma",
+        "Year":2019,
+        "Total_Deaths":473.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oklahoma",
+        "Year":2020,
+        "Total_Deaths":538.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oregon",
+        "Year":2011,
+        "Total_Deaths":343.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oregon",
+        "Year":2012,
+        "Total_Deaths":367.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oregon",
+        "Year":2013,
+        "Total_Deaths":389.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oregon",
+        "Year":2014,
+        "Total_Deaths":422.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oregon",
+        "Year":2015,
+        "Total_Deaths":373.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oregon",
+        "Year":2016,
+        "Total_Deaths":414.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oregon",
+        "Year":2017,
+        "Total_Deaths":439.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oregon",
+        "Year":2018,
+        "Total_Deaths":427.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oregon",
+        "Year":2019,
+        "Total_Deaths":466.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Oregon",
+        "Year":2020,
+        "Total_Deaths":454.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Pennsylvania",
+        "Year":2011,
+        "Total_Deaths":883.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Pennsylvania",
+        "Year":2012,
+        "Total_Deaths":819.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Pennsylvania",
+        "Year":2013,
+        "Total_Deaths":918.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Pennsylvania",
+        "Year":2014,
+        "Total_Deaths":897.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Pennsylvania",
+        "Year":2015,
+        "Total_Deaths":932.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Pennsylvania",
+        "Year":2016,
+        "Total_Deaths":976.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Pennsylvania",
+        "Year":2017,
+        "Total_Deaths":993.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Pennsylvania",
+        "Year":2018,
+        "Total_Deaths":1025.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Pennsylvania",
+        "Year":2019,
+        "Total_Deaths":964.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Pennsylvania",
+        "Year":2020,
+        "Total_Deaths":919.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Rhode Island",
+        "Year":2011,
+        "Total_Deaths":20.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Rhode Island",
+        "Year":2012,
+        "Total_Deaths":26.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Rhode Island",
+        "Year":2013,
+        "Total_Deaths":34.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Rhode Island",
+        "Year":2014,
+        "Total_Deaths":20.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Rhode Island",
+        "Year":2015,
+        "Total_Deaths":40.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Rhode Island",
+        "Year":2016,
+        "Total_Deaths":35.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Rhode Island",
+        "Year":2017,
+        "Total_Deaths":33.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Rhode Island",
+        "Year":2018,
+        "Total_Deaths":23.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Rhode Island",
+        "Year":2019,
+        "Total_Deaths":33.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Rhode Island",
+        "Year":2020,
+        "Total_Deaths":30.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Carolina",
+        "Year":2011,
+        "Total_Deaths":426.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Carolina",
+        "Year":2012,
+        "Total_Deaths":433.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Carolina",
+        "Year":2013,
+        "Total_Deaths":470.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Carolina",
+        "Year":2014,
+        "Total_Deaths":479.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Carolina",
+        "Year":2015,
+        "Total_Deaths":469.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Carolina",
+        "Year":2016,
+        "Total_Deaths":525.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Carolina",
+        "Year":2017,
+        "Total_Deaths":531.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Carolina",
+        "Year":2018,
+        "Total_Deaths":493.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Carolina",
+        "Year":2019,
+        "Total_Deaths":532.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Carolina",
+        "Year":2020,
+        "Total_Deaths":565.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Dakota",
+        "Year":2011,
+        "Total_Deaths":60.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Dakota",
+        "Year":2012,
+        "Total_Deaths":76.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Dakota",
+        "Year":2013,
+        "Total_Deaths":71.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Dakota",
+        "Year":2014,
+        "Total_Deaths":76.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Dakota",
+        "Year":2015,
+        "Total_Deaths":73.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Dakota",
+        "Year":2016,
+        "Total_Deaths":84.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Dakota",
+        "Year":2017,
+        "Total_Deaths":83.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Dakota",
+        "Year":2018,
+        "Total_Deaths":91.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Dakota",
+        "Year":2019,
+        "Total_Deaths":98.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"South Dakota",
+        "Year":2020,
+        "Total_Deaths":88.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Tennessee",
+        "Year":2011,
+        "Total_Deaths":591.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Tennessee",
+        "Year":2012,
+        "Total_Deaths":626.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Tennessee",
+        "Year":2013,
+        "Total_Deaths":676.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Tennessee",
+        "Year":2014,
+        "Total_Deaths":644.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Tennessee",
+        "Year":2015,
+        "Total_Deaths":638.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Tennessee",
+        "Year":2016,
+        "Total_Deaths":675.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Tennessee",
+        "Year":2017,
+        "Total_Deaths":711.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Tennessee",
+        "Year":2018,
+        "Total_Deaths":690.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Tennessee",
+        "Year":2019,
+        "Total_Deaths":746.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Tennessee",
+        "Year":2020,
+        "Total_Deaths":767.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Texas",
+        "Year":2011,
+        "Total_Deaths":1684.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Texas",
+        "Year":2012,
+        "Total_Deaths":1744.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Texas",
+        "Year":2013,
+        "Total_Deaths":1780.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Texas",
+        "Year":2014,
+        "Total_Deaths":1789.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Texas",
+        "Year":2015,
+        "Total_Deaths":1994.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Texas",
+        "Year":2016,
+        "Total_Deaths":2016.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Texas",
+        "Year":2017,
+        "Total_Deaths":2158.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Texas",
+        "Year":2018,
+        "Total_Deaths":2263.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Texas",
+        "Year":2019,
+        "Total_Deaths":2237.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Texas",
+        "Year":2020,
+        "Total_Deaths":2287.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"United States",
+        "Year":2011,
+        "Total_Deaths":19990.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"United States",
+        "Year":2012,
+        "Total_Deaths":20666.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"United States",
+        "Year":2013,
+        "Total_Deaths":21175.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"United States",
+        "Year":2014,
+        "Total_Deaths":21386.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"United States",
+        "Year":2015,
+        "Total_Deaths":22018.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"United States",
+        "Year":2016,
+        "Total_Deaths":22938.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"United States",
+        "Year":2017,
+        "Total_Deaths":23854.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"United States",
+        "Year":2018,
+        "Total_Deaths":24432.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"United States",
+        "Year":2019,
+        "Total_Deaths":23941.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"United States",
+        "Year":2020,
+        "Total_Deaths":24292.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Utah",
+        "Year":2011,
+        "Total_Deaths":268.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Utah",
+        "Year":2012,
+        "Total_Deaths":283.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Utah",
+        "Year":2013,
+        "Total_Deaths":295.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Utah",
+        "Year":2014,
+        "Total_Deaths":278.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Utah",
+        "Year":2015,
+        "Total_Deaths":313.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Utah",
+        "Year":2016,
+        "Total_Deaths":309.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Utah",
+        "Year":2017,
+        "Total_Deaths":344.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Utah",
+        "Year":2018,
+        "Total_Deaths":339.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Utah",
+        "Year":2019,
+        "Total_Deaths":329.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Utah",
+        "Year":2020,
+        "Total_Deaths":339.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Vermont",
+        "Year":2011,
+        "Total_Deaths":70.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Vermont",
+        "Year":2012,
+        "Total_Deaths":50.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Vermont",
+        "Year":2013,
+        "Total_Deaths":59.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Vermont",
+        "Year":2014,
+        "Total_Deaths":59.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Vermont",
+        "Year":2015,
+        "Total_Deaths":59.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Vermont",
+        "Year":2016,
+        "Total_Deaths":69.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Vermont",
+        "Year":2017,
+        "Total_Deaths":62.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Vermont",
+        "Year":2018,
+        "Total_Deaths":70.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Vermont",
+        "Year":2019,
+        "Total_Deaths":59.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Vermont",
+        "Year":2020,
+        "Total_Deaths":69.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Virginia",
+        "Year":2011,
+        "Total_Deaths":604.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Virginia",
+        "Year":2012,
+        "Total_Deaths":587.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Virginia",
+        "Year":2013,
+        "Total_Deaths":601.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Virginia",
+        "Year":2014,
+        "Total_Deaths":626.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Virginia",
+        "Year":2015,
+        "Total_Deaths":630.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Virginia",
+        "Year":2016,
+        "Total_Deaths":671.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Virginia",
+        "Year":2017,
+        "Total_Deaths":672.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Virginia",
+        "Year":2018,
+        "Total_Deaths":679.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Virginia",
+        "Year":2019,
+        "Total_Deaths":661.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Virginia",
+        "Year":2020,
+        "Total_Deaths":697.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Washington",
+        "Year":2011,
+        "Total_Deaths":495.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Washington",
+        "Year":2012,
+        "Total_Deaths":529.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Washington",
+        "Year":2013,
+        "Total_Deaths":483.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Washington",
+        "Year":2014,
+        "Total_Deaths":551.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Washington",
+        "Year":2015,
+        "Total_Deaths":537.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Washington",
+        "Year":2016,
+        "Total_Deaths":515.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Washington",
+        "Year":2017,
+        "Total_Deaths":639.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Washington",
+        "Year":2018,
+        "Total_Deaths":599.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Washington",
+        "Year":2019,
+        "Total_Deaths":637.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Washington",
+        "Year":2020,
+        "Total_Deaths":618.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"West Virginia",
+        "Year":2011,
+        "Total_Deaths":200.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"West Virginia",
+        "Year":2012,
+        "Total_Deaths":198.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"West Virginia",
+        "Year":2013,
+        "Total_Deaths":225.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"West Virginia",
+        "Year":2014,
+        "Total_Deaths":217.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"West Virginia",
+        "Year":2015,
+        "Total_Deaths":215.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"West Virginia",
+        "Year":2016,
+        "Total_Deaths":238.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"West Virginia",
+        "Year":2017,
+        "Total_Deaths":267.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"West Virginia",
+        "Year":2018,
+        "Total_Deaths":257.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"West Virginia",
+        "Year":2019,
+        "Total_Deaths":196.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"West Virginia",
+        "Year":2020,
+        "Total_Deaths":220.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wisconsin",
+        "Year":2011,
+        "Total_Deaths":351.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wisconsin",
+        "Year":2012,
+        "Total_Deaths":348.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wisconsin",
+        "Year":2013,
+        "Total_Deaths":437.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wisconsin",
+        "Year":2014,
+        "Total_Deaths":352.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wisconsin",
+        "Year":2015,
+        "Total_Deaths":424.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wisconsin",
+        "Year":2016,
+        "Total_Deaths":455.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wisconsin",
+        "Year":2017,
+        "Total_Deaths":435.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wisconsin",
+        "Year":2018,
+        "Total_Deaths":420.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wisconsin",
+        "Year":2019,
+        "Total_Deaths":427.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wisconsin",
+        "Year":2020,
+        "Total_Deaths":442.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wyoming",
+        "Year":2011,
+        "Total_Deaths":84.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wyoming",
+        "Year":2012,
+        "Total_Deaths":102.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wyoming",
+        "Year":2013,
+        "Total_Deaths":89.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wyoming",
+        "Year":2014,
+        "Total_Deaths":78.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wyoming",
+        "Year":2015,
+        "Total_Deaths":95.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wyoming",
+        "Year":2016,
+        "Total_Deaths":87.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wyoming",
+        "Year":2017,
+        "Total_Deaths":99.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wyoming",
+        "Year":2018,
+        "Total_Deaths":108.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wyoming",
+        "Year":2019,
+        "Total_Deaths":114.0
+    },
+    {
+        "Injury_Intent":"Firearm Suicide",
+        "State":"Wyoming",
+        "Year":2020,
+        "Total_Deaths":128.0
+    }
+]

@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="We’re here to help you to finding a best way">
+    <meta name="description" content="">
+    <title>Statistics</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/nicepage.css') }}" media="screen">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/Graphic3.css') }}" media="screen">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<div style="display: flex; justify-content: center"></div>
+
+
+
+
+<style type="text/css">
+
+</style>
+
+
+<script class="u-script" type="text/javascript" src="{{ url_for('static', filename='js/jquery.js') }}" defer=""></script>
+<script class="u-script" type="text/javascript" src="{{ url_for('static', filename='js/nicepage.js') }}" defer=""></script>
+    <meta name="generator" content="Nicepage 4.20.1, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"logo": "images/default-logo.png"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Graphic3">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-5279"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+    <a href="home" class="u-image u-logo u-image-1" title="Gun Violence In The USA_Home">
+          <img src="{{ url_for('static', filename='images/default-logo.png') }}" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-menu u-menu-hamburger u-menu-open-right u-offcanvas u-menu-1" data-responsive-from="XL">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700;">
+            <a class="u-button-style u-custom-border u-custom-border-color u-custom-borders u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-nav-container">
+            <ul class="u-align-center u-nav u-popupmenu-items u-text-active-palette-2-base u-text-hover-palette-2-base u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="home">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Graphic1">Incident Types</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Graphic2">Political Lens</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Graphic3">Statistics</a>
+</li></ul>
+          </div>
+          <div class="u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <ul class="u-align-center u-nav u-popupmenu-items u-text-active-palette-2-base u-text-hover-palette-2-base u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="home">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Graphic1">Incident Types</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Graphic2">Political Lens</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Graphic3">Statistics</a>
+</li></ul>
+                <div class="u-menu-close u-menu-close-1"></div>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-clearfix u-section-1" id="sec-7a1b">
+      <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-spacing-top u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <!-- <div class="u-align-left u-container-style u-grey-5 u-layout-cell u-left-cell u-size-20 u-layout-cell-1" src=""> -->
+              <div class="u-container-layout u-valign-middle u-container-layout-1">
+             
+                <h1 style="text-align: center"> Gun Violence Statistics of the United States (2016-2020) </h1>
+                <div class="wrap-sub">
+                <h3 style="text-align: center">We found it necessary as a group to analyze different data sets to create various visualizations to show how gun violence has impacted states within our country. 
+                  Additionally, we found it crucial to show trends regarding gun violence between 2016-2020. </h3>
+
+                    <!-- //Inserting 1st Bar Graph -->
+                    <!-- <table align="center"> -->
+                     <section class="charts"></section> 
+                     <tr valign="top">
+                        <td style="width: 50%;">
+                          <div id="map_div" style="width: 400px; height: 300;"></div>
+                        </td>
+                        <td style="width: 50%;">
+                          <div id="table_div"></div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td colSpan=2>
+                          <!-- <div id="plot" style="align: center; width: 700px; height: 300px;"></div> -->
+                        </td>
+                      </tr>
+                    </table>
+                    <div id='plot'></div>
+                    <script>
+                          var xValue = ['Maine', 'New Hampshire', 'DC', 'Wyoming', 'South Dakota', 'Delaware', 'North Dakota', 'Vermont', 'Hawaii','Rhode Island' ];
+  
+                          var yValue = [770, 717, 640, 625, 559, 557, 475, 373, 276, 231];
+  
+                          var trace1 = {
+                            x: xValue,
+                            y: yValue,
+                            type: 'bar',
+                            text: yValue.map(String),
+                            textposition: 'auto',
+                            hoverinfo: 'none',
+                            marker: {
+                              color: 'rgb(158,202,225)',
+                              opacity: 0.6,
+                              line: {
+                                color: 'rgb(8,48,107)',
+                                width: 1.5,
+                                line: {
+                                  color: 'rgb(8,48,107)',
+                                  width: 1.5
+                                }
+                              }
+                            }
+                          };
+  
+                          var data = [trace1];
+  
+                          var layout = {
+                            title: '10 States with Lowest Cases of Gun Incidents',
+                            barmode: 'stack'
+                          };
+  
+                          Plotly.newPlot('plot', data, layout);
+  
+  
+                    </script>
+
+
+          
+              <!-- <script src="IncidentTypes/incidents.js"></script> -->
+              <!--Inserting Second bar graph -->
+              <!-- <table align="center"> -->
+                <!-- <tr valign="top">
+                  <td style="width: 50%;">
+                    <div id="map_div" style="width: 400px; height: 300;"></div>
+                  </td>
+                  <td style="width: 50%;"> -->
+                    <!-- <div id="table_div"></div> -->
+                  <!-- </td>
+                </tr>
+                <tr>
+                  <td colSpan=2> -->
+                    <!-- <td colSpan=4></td> -->
+                    <!-- <div id="graph" style="align: center; width: 700px; height: 300px;"></div> -->
+                  <!-- </td>
+                </tr>
+              </table>
+            </div>
+          </div>  -->
+          
+            
+              <div id="graph"></div>
+              <script>
+              var trace1 = {
+                x: ['Texas', 'California', 'Florida', 'Georgia', 'Pennsylvania', 'Ohio', 'Illinois', 'North Carolina', 'Missouri', 'Tennessee'],
+                x2: ['Republican', 'Republican', 'Republican', 'Democrat', 'Republican', 'Republican', 'Democrat', 'Democrat', 'Democrat', 'Republican'],
+                y: [18235, 15802, 14243, 8466, 8138, 8010, 7257, 7351, 6440, 6365],
+                // y2: [5562, 5046, 3909, 3409, 2508, 2456, 2395, 2225, 2179, 2136],
+                type: 'bar',
+                name: 'Primary Product',
+                marker: {
+                  color: 'rgb(174,33,33)',
+                  opacity: 8,
+                }
+              };
+              
+              var data = [trace1];
+              
+              var layout = {
+                title: '10 States with Highest Cases of Gun Incidents',
+                xaxis: {
+                  tickangle: -45
+                },
+                yaxis: {
+                  range: [0, 20000], 
+                  autorange: false
+                },
+                barmode: 'group'
+              };
+              
+              Plotly.newPlot('graph', data, layout);
+              
+            </script>
+            
+
+          <!-- <div id="myChart"></div> -->
+            <canvas id="myChart"></canvas>
+            <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+            
+            <script>
+            const chart = {
+              labels: [
+                'Texas',
+                'California',
+                'Florida',
+                'Georgia',
+                'Pennsylvania',
+                'Ohio',
+                'Illinois',
+                'North Carolina', 
+                'Missouri', 
+                'Tennessee'
+              ],
+              datasets: [{
+                label: 'Suicides',
+                data: [10961, 7972, 8802, 4660, 4877, 4689, 2739, 4161, 3462, 3589],
+                fill: true,
+                backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                borderColor: 'rgb(255, 99, 132)',
+                pointBackgroundColor: 'rgb(255, 99, 132)',
+                pointBorderColor: '#fff',
+                pointHoverBackgroundColor: '#fff',
+                pointHoverBorderColor: 'rgb(255, 99, 132)'
+              }, {
+                label: 'Homicides',
+                data: [6654, 7155, 5156, 3553, 3057, 3115, 4620, 2854, 2804, 2531],
+                fill: true,
+                backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                borderColor: 'rgb(54, 162, 235)',
+                pointBackgroundColor: 'rgb(54, 162, 235)',
+                pointBorderColor: '#fff',
+                pointHoverBackgroundColor: '#fff',
+                pointHoverBorderColor: 'rgb(54, 162, 235)'
+            }]  
+          };
+          
+            const config = {
+              type: 'radar',
+              data: chart,
+              options: {
+                plugins: {
+                  title: {
+                    display: true, 
+                    text: 'Top 10 States with Highest Gun Incident Rates (by total population)',
+                    padding: {
+                      top: 10,
+                      bottom: 30
+                    }
+                  }
+                },
+                elements: {
+                  line: {
+                    borderWidth: 3
+                  }
+                }
+            },
+          };
+          
+          const myChart = new Chart(
+            document.getElementById('myChart'),
+            config
+          );
+          </script>
+                    
+      
+
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <canvas id="california"></canvas>
+        <script>
+          const california = {
+            labels: [
+              '2016',
+              '2017',
+              '2018',
+              '2019',
+              '2020'
+            ],
+            datasets: [{
+              label: 'Suicides',
+              data: [1595, 1610, 1629, 1586, 1552],
+              fill: true,
+              backgroundColor: 'rgba(255, 99, 132, 0.2)',
+              borderColor: 'rgb(255, 99, 132)',
+              pointBackgroundColor: 'rgb(255, 99, 132)',
+              pointBorderColor: '#fff',
+              pointHoverBackgroundColor: '#fff',
+              pointHoverBorderColor: 'rgb(255, 99, 132)'
+            }, {
+              label: 'Homicides',
+              data: [1541, 1521, 1356, 1322, 1831],
+              fill: true,
+              backgroundColor: 'rgba(54, 162, 235, 0.2)',
+              borderColor: 'rgb(54, 162, 235)',
+              pointBackgroundColor: 'rgb(54, 162, 235)',
+              pointBorderColor: '#fff',
+              pointHoverBackgroundColor: '#fff',
+              pointHoverBorderColor: 'rgb(54, 162, 235)'
+          }]  
+        };
+
+          const configc = {
+            type: 'radar',
+            data: california,
+            options: {
+              plugins: {
+                title: {
+                  display: true, 
+                  text: 'California Gun Incidents (by total population)',
+                  padding: {
+                    top: 10,
+                    bottom: 30
+                  }
+                }
+              },
+              elements: {
+                line: {
+                  borderWidth: 3
+                }
+              }
+          },
+        };
+
+        const _myChart = new Chart(
+          document.getElementById("california"),
+          configc
+        );
+        </script>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-b07e"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">Project 3<br>by BIG6
+        </p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section>
+  
+</body></html>
