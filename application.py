@@ -159,7 +159,9 @@ def welcome():
     # return jsonify(all_states)
     return jsonify(data)
 
-
+@application.route("/ML")
+def ml():
+    return render_template("ML.html")
 @application.route("/Graphic1")
 def graphic1():
     return render_template("Graphic1.html")
