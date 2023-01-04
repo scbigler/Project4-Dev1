@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <title>Machine Learning</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/nicepage.css') }}" media="screen">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/Gun-Violence-In-The-USA_Home.css') }}" media="screen">
+    <script class="u-script" type="text/javascript" src="{{ url_for('static', filename='js/jquery.js') }}" defer=""></script>
+    <script class="u-script" type="text/javascript" src="{{ url_for('static', filename='js/nicepage.js') }}" defer=""></script>
+    <meta name="generator" content="Nicepage 4.20.1, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+  crossorigin="" />
+
+<!-- Leaflet JavaScript code -->
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+  crossorigin=""></script>
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"logo": "images/default-logo.png"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Gun Violence In The USA_Home">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-5279"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <a href="home" class="u-image u-logo u-image-1" title="Gun Violence In The USA_Home">
+          <img src="{{ url_for('static', filename='images/default-logo.png') }}" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-menu u-menu-hamburger u-menu-open-right u-offcanvas u-menu-1" data-responsive-from="XL">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700;">
+            <a class="u-button-style u-custom-border u-custom-border-color u-custom-borders u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-nav-container">
+            <ul class="u-nav u-spacing-20 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="home" style="padding: 10px;">Home</a>
+</li><li class="u-nav-item"><a class="u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="Graphic1" style="padding: 10px;">Incident Types</a>
+</li><li class="u-nav-item"><a class="u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="Graphic2" style="padding: 10px;">Political Lens</a>
+</li><li class="u-nav-item"><a class="u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="Graphic3" style="padding: 10px;">Statistics</a>
+</li></ul>
+          </div>
+          <div class="u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <ul class="u-align-center u-nav u-popupmenu-items u-text-active-palette-2-base u-text-hover-palette-2-base u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="home">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Graphic1">Incident Types</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Graphic2">Political Lens</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Graphic3">Statistics</a>
+</li></ul>
+                <div class="u-menu-close u-menu-close-1"></div>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-clearfix u-grey-5 u-section-1" id="sec-fcb4">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h1><p style="text-align: center">Gun Incidents in America</p></h1>
+        
+            <!-- <script src="data.js"></script> -->
+            <!-- <script type="text/javascript" src="frontPageMap.js"></script>
+          </div>
+        <div class="u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1"> --> 
+          
+          <!-- <div id="map-container">
+            <div id="map"></div>
+              <script src="https://d3js.org/d3.v5.min.js"></script>
+              <script src="data.js"></script> -->
+              <!-- <script type="text/javascript" src="InteractiveMap/logic.js"></script>
+            </div>
+          </div>   -->
+
+          <div id="map-container">
+            <div id="map"></div>
+          
+              <script src="https://d3js.org/d3.v5.min.js"></script>
+              <!-- <script src="data.js"></script> -->
+              <script type="text/javascript" src="{{ url_for('static', filename='js/frontPageMap.js') }}"></script>
+            </div> 
+
+
+          <!-- <div class="u-layout" style="">
+            <div class="u-layout-row" style="">
+              <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-size-xs-60 u-layout-cell-1" src="">
+                <div class="u-container-layout u-valign-middle u-container-layout-1">
+                  <h2 class="u-align-center u-text u-text-default u-text-1">Sample Headline</h2>
+                  <p class="u-align-center u-text u-text-2">Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
+                  <a href="Graphic1.html" class="u-btn u-btn-round u-button-style u-radius-50 u-btn-1" target="_blank">learn more</a> -->
+                </div>
+              </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-section-2" id="sec-11b3">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-center u-container-style u-layout-cell u-left-cell u-size-20 u-size-20-md u-layout-cell-1">
+                <div class="u-border-2 u-border-grey-50 u-container-layout u-valign-middle u-container-layout-1">
+                  <img class="u-image u-image-default u-image-1" src="{{ url_for('static', filename='images/crimescene.jpeg') }}" alt="" Incident Graphic="400" data-image-height="265">
+                  <a href="Graphic1" class="u-btn u-button-style u-grey-15 u-hover-palette-2-base u-btn-1" target="_blank">Incident Types</a>
+                </div>
+              </div>
+              <div class="u-align-center u-container-style u-layout-cell u-size-20 u-size-20-md u-layout-cell-2">
+                <div class="u-border-2 u-border-grey-50 u-container-layout u-valign-middle u-container-layout-2">
+                  <img class="u-image u-image-default u-image-2" src="{{ url_for('static', filename='images/political.webp') }}" alt="" data-image-width="400" data-image-height="265">
+                  <a href="Graphic2" class="u-btn u-button-style u-grey-15 u-hover-palette-2-base u-btn-2" target="_blank">Political Lens</a>
+                </div>
+              </div>
+              <div class="u-align-center u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">
+                <div class="u-border-2 u-border-grey-50 u-container-layout u-valign-middle u-container-layout-3">
+                  <img class="u-image u-image-default u-image-3" src="{{ url_for('static', filename='images/stats.jpeg') }}" alt="" data-image-width="400" data-image-height="265">
+                  <a href="Graphic3" class="u-btn u-button-style u-grey-15 u-hover-palette-2-base u-btn-3" target="_blank">Statistics</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-b07e"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">Project 3<br>by BIG6
+        </p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/templates" target="_blank">
+        <span>Template</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="https://nicepage.com/html-website-builder" target="_blank">
+        <span>HTML Creator</span>
+      </a>. 
+    </section><span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; background-image: none; right: 20px; bottom: 20px; padding: 15px;" class="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base" data-href="#">
+        <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-1d98"></use></svg>
+        <svg class="u-svg-content" enable-background="new 0 0 551.13 551.13" viewBox="0 0 551.13 551.13" xmlns="http://www.w3.org/2000/svg" id="svg-1d98"><path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z"></path></svg>
+    </span>
+  
+</body></html>
