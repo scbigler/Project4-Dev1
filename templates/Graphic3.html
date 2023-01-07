@@ -15,10 +15,10 @@
 
 
 
-
-<style type="text/css">
-
-</style>
+<!-- 
+<style type="text/css"> -->
+<!-- 
+</style> -->
 
 
 <script class="u-script" type="text/javascript" src="{{ url_for('static', filename='js/jquery.js') }}" defer=""></script>
@@ -50,7 +50,7 @@
             </a>
           </div>
           <div class="u-nav-container">
-            <ul class="u-align-center u-nav u-popupmenu-items u-text-active-palette-2-base u-text-hover-palette-2-base u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="home">Home</a>
+            <ul class="u-nav u-spacing-20 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="home" style="padding: 10px;">Home</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Graphic1">Incident Types</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Graphic2">Political Lens</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Graphic3">Statistics</a>
@@ -73,18 +73,23 @@
           </div>
         </nav>
       </div></header>
+      <div class="wrap-flex">
+        <h1><p data-text="Gun Incident Statistics">Statistics</p></h1>
+
+        <h4 style="text-align: center">Taking a look at other impactful statistics on gun incidents throughout the country.
+        </h4>
     <section class="u-clearfix u-section-1" id="sec-7a1b">
       <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-spacing-top u-layout-wrap u-layout-wrap-1">
         <div class="u-layout">
           <div class="u-layout-row">
             <!-- <div class="u-align-left u-container-style u-grey-5 u-layout-cell u-left-cell u-size-20 u-layout-cell-1" src=""> -->
-              <div class="u-container-layout u-valign-middle u-container-layout-1">
+              <div class="u-container-layout u-valign-top u-container-layout-1">
                 
-                <div class="wrap-sub">
-                  <h1 data-text="Gun Incidents Statistics", style="text-align: center">Gun Incidents Statistics</h1>
+                <div class="wrap-flex">
+                  <!-- <h1><p data-text="Gun Incident Statistics">Statistics</p></h1>
 
                   <h4 style="text-align: center">Taking a look at other impactful statistics on gun incidents throughout the country.
-                  </h4>
+                  </h4> -->
 
               <!--Tableau Dashboard-->
               <div class='tableauPlaceholder' id='viz1672977809111' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Project4Dashboard1-Stats&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Project4Dashboard1-Stats&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Project4Dashboard1-Stats&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1672977809111');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>                    <!-- //Inserting 1st Bar Graph -->
@@ -150,9 +155,9 @@
             
 
           <!-- <div id="myChart"></div> -->
+          <h1><p>Top 10 States with Highest Gun Incident Rates</p></h1>
             <canvas id="myChart"></canvas>
             <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-            
             <script>
             const chart = {
               labels: [
@@ -197,7 +202,7 @@
                 plugins: {
                   title: {
                     display: true, 
-                    text: 'Top 10 States with Highest Gun Incident Rates (by total population)',
+                    text: 'Totals over a five year span (2016-2020, by total population)',
                     padding: {
                       top: 10,
                       bottom: 30
@@ -218,7 +223,7 @@
           );
           </script>
                     
-      
+      <h1><p>California, over a 5 Year Period</p></h1>
 
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
         <canvas id="california"></canvas>
@@ -261,7 +266,7 @@
               plugins: {
                 title: {
                   display: true, 
-                  text: 'California Gun Incidents (by total population)',
+                  text: 'Homicides & Suicides (2016-2020, by total population)',
                   padding: {
                     top: 10,
                     bottom: 30
