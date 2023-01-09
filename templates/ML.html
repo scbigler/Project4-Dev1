@@ -6,7 +6,8 @@
     <meta name="description" content="">
     <title>Machine Learning</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/nicepage.css') }}" media="screen">
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/Gun-Violence-In-The-USA_Home.css') }}" media="screen">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/ML.css') }}" media="screen">
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/Gun-Violence-In-The-USA_Home.css') }}" media="screen"> -->
     <script class="u-script" type="text/javascript" src="{{ url_for('static', filename='js/jquery.js') }}" defer=""></script>
     <script class="u-script" type="text/javascript" src="{{ url_for('static', filename='js/nicepage.js') }}" defer=""></script>
     <meta name="generator" content="Nicepage 4.20.1, nicepage.com">
@@ -17,6 +18,7 @@
   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
   crossorigin="" />
 
+ 
 <!-- Leaflet JavaScript code -->
 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
@@ -67,36 +69,19 @@
           </div>
         </nav>
       </div></header>
+
+
+
       <section class="u-clearfix u-section-1" id="sec-7a1b">
+
         <h1><p style="text-align: center">Machine Learning</p></h1>
-        <!-- <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-spacing-top u-layout-wrap u-layout-wrap-1"> -->
-          <!-- <div class="u-layout"> -->
-            <!-- <div class="u-layout-row"> -->
-    <!-- <section class="u-clearfix u-grey-5 u-section-1" id="sec-fcb4"> -->
-      <!-- <div class="u-clearfix u-sheet u-sheet-1"> -->
-        <div class="u-container-layout u-valign-middle u-container-layout-1">
-          <div class='tableauPlaceholder' id='viz1672809908085' style='position: relative'><noscript><a href='#'><img alt='CitiBike In The CityBy  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;My&#47;MyFirstViz_16705522408040&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MyFirstViz_16705522408040&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;My&#47;MyFirstViz_16705522408040&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1672809908085');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1000px';vizElement.style.height='827px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-
-            <!-- <script src="data.js"></script> -->
-            <!-- <script type="text/javascript" src="frontPageMap.js"></script>
-          </div>
-        <div class="u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1"> --> 
-          
-          <!-- <div id="map-container">
-            <div id="map"></div>
-              <script src="https://d3js.org/d3.v5.min.js"></script>
-              <script src="data.js"></script> -->
-              <!-- <script type="text/javascript" src="InteractiveMap/logic.js"></script>
-            </div>
-          </div>   -->
-
-          <!-- <div class="u-layout" style="">
-            <div class="u-layout-row" style="">
-              <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-size-xs-60 u-layout-cell-1" src="">
-                <div class="u-container-layout u-valign-middle u-container-layout-1">
-                  <h2 class="u-align-center u-text u-text-default u-text-1">Sample Headline</h2>
-                  <p class="u-align-center u-text u-text-2">Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
-                  <a href="Graphic1.html" class="u-btn u-btn-round u-button-style u-radius-50 u-btn-1" target="_blank">learn more</a> -->
+        <div>
+         <img class="displayed" src="{{ url_for('static', filename='images/supervised.png') }}" alt="">
+        </div>
+          <img src="{{ url_for('static', filename='images/4_clusters.png') }}" alt="">
+          <img src="{{ url_for('static', filename='images/inerta.png') }}"  alt="">
+          <img src="{{ url_for('static', filename='images/sillouette.png') }}"  alt="">
+  
                 </div>
               </div>
               </div>
@@ -125,5 +110,6 @@
         <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-1d98"></use></svg>
         <svg class="u-svg-content" enable-background="new 0 0 551.13 551.13" viewBox="0 0 551.13 551.13" xmlns="http://www.w3.org/2000/svg" id="svg-1d98"><path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z"></path></svg>
     </span>
+    
   
 </body></html>
